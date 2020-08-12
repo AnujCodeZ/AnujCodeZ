@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+![AIBRAIN](AI_Brain.gif)
 - 🔭 I’m currently working on implementing deep learning algorithms
 - 🌱 I’m currently learning advanced deep learning and stats
 - 👯 I’m looking to collaborate on making AI projects
@@ -12,3 +12,4 @@
 - ⚡ Fun fact: I'm a minimalist
 - :innocent: Dream: To build a startup
 
+![](https://github-readme-stats.vercel.app/api?username=AnujCodeZ&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
