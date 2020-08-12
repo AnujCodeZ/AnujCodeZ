@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![AIBRAIN](AI_Brain.gif)
+![](https://github.com/AnujCodeZ/AnujCodeZ/blob/master/AI_Brain.gif)
 - 🔭 I’m currently working on implementing deep learning algorithms
 - 🌱 I’m currently learning advanced deep learning and stats
 - 👯 I’m looking to collaborate on making AI projects
