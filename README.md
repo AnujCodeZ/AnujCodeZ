@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on implementing deep learning algorithms
 - 🌱 I’m currently learning advanced deep learning and stats
 - 👯 I’m looking to collaborate on making AI projects
-- 🤔 I’m looking for help with machine learning algorithms from scratch
+- 🤔 I’m looking for help with NLP
 - 💬 Ask me about concepts of deep learning
 - 📫 How to reach me: anujrana.sid55@gmail.com
 - ⚡ Fun fact: I'm a minimalist
