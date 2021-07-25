@@ -9,3 +9,4 @@
 - So now I'm currently studying NLP and speech Recognition.
 - Also I start learning MLOps (ML in production).
 - You can see my from scratch algorithms of [ML](https://github.com/AnujCodeZ/PyML) and [DL](https://github.com/AnujCodeZ/PyNet).
+- Here are my [Computer Vision](https://github.com/AnujCodeZ/AnujCodeZ/blob/master/CV.md) and [NLP](https://github.com/AnujCodeZ/AnujCodeZ/blob/master/NLP.md) projects.
