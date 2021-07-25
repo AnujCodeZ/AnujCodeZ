@@ -1,0 +1,11 @@
+# Computer Vision Projects
+- [Attendance System using Face Recognition](https://github.com/AnujCodeZ/AttendenceSystemUsingFaceRecognition)
+- [Empty Shelf Detection in stores](https://github.com/AnujCodeZ/EmptyShelfDetection)
+- [Album of People](https://github.com/AnujCodeZ/GroupPeople)
+- [Neural Style Transfer](https://github.com/AnujCodeZ/NeuralStyleTransfer)
+- [Facial Expression Recognition](https://github.com/AnujCodeZ/FacialExpressionRecognition)
+- [YoloV3 from Scratch](https://github.com/AnujCodeZ/YOLOv3)
+- [Object Detection](https://github.com/AnujCodeZ/ObjectDetection-Pytorch)
+- [CNN Architechtures in Pytorch from Scratch](https://github.com/AnujCodeZ/CNN-Architectures-Pytorch)
+- [Image classification with EfficientNet](https://github.com/AnujCodeZ/ImageCLFUsingEffNetWithSAM)
+- [Object Tracker using Deep SORT](https://github.com/AnujCodeZ/ObjectTracker)
