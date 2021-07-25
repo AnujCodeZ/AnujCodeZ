@@ -7,4 +7,4 @@
 - Now I'm experienced in Pytorch and TensorFlow. 
 - I really like JARVIS from Iron Man when I was in 10th standard, from then I wanted to build him (not it). 
 - So now I'm currently studying NLP and speech Recognition.
-- You can see my from scratch algorithms of [ML](https://github.com/AnujCodeZ/PyML) and [https://github.com/AnujCodeZ/PyNet](https://github.com/AnujCodeZ/PyNet).
+- You can see my from scratch algorithms of [ML](https://github.com/AnujCodeZ/PyML) and [DL](https://github.com/AnujCodeZ/PyNet).
