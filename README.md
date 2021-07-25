@@ -1,4 +1,4 @@
-![](/home/anujrana/Pictures/cover.png)
+![](./cover.png)
 
 # Hi I'm Anuj Rana.
 
