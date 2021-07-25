@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](https://github.com/AnujCodeZ/AnujCodeZ/blob/master/AI_Animated.gif)
+![](https://github.com/AnujCodeZ/AnujCodeZ/blob/master/cover.png)
 - 🔭 I’m currently working on implementing deep learning algorithms
 - 🌱 I’m currently learning advanced deep learning and stats
 - 👯 I’m looking to collaborate on making AI projects
